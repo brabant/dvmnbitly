@@ -79,8 +79,6 @@ def main():
     args = parser.parse_args()
 
     token = os.getenv("TOKEN")
-    # print('Введите длинную ссылку для её сокращения или короткую для получения количества кликов по ней: ', end='')
-    # link = input()
     link = args.link
 
     (result_type, result) = get_clicks_or_shortlink(token, link)
