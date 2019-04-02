@@ -14,7 +14,7 @@ TOKEN=Здесь ваш GENERIC ACCESS TOKEN для работы с Bit.ly
 * Если у вас нет аккаунта — создайте его https://bitly.com/a/sign_up.
 * Если аккаунт у вас есть — авторизуйтесь https://bitly.com/a/sign_in.
 * Перейдите на страницу настроек https://bitly.com/a/settings
-* Выберите вкладку «Generic Access Token
+* Выберите вкладку «Generic Access Token»
 * Введите ваш пароль от bit.ly и кликните «Generate Token»
 * Скопируйте ваш «Generic Access Token» и вставьте его в файл .env
 
