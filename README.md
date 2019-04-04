@@ -26,6 +26,11 @@ Python3 должен быть уже установлен.
 pip install -r requirements.txt
 ```
 
+### Пример запуска
+```
+python main.py https://vyksa360.ru
+```
+
 ### Цель проекта
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
